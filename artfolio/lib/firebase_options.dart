@@ -41,49 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCRCcAD3gE2nvRV0FdhoOjl0yd6dGG-uLA',
-    appId: '1:435301264595:web:e6abc2014cb8e8d097b826',
-    messagingSenderId: '435301264595',
-    projectId: 'artfolio-e9d2a',
-    authDomain: 'artfolio-e9d2a.firebaseapp.com',
-    storageBucket: 'artfolio-e9d2a.appspot.com',
-    measurementId: 'G-334TFXF84V',
+    apiKey: 'AIzaSyCZhGkFp54bNm1UgN9MMMGo8ffvervuZXs',
+    appId: '1:542285119087:web:1efb2f5a3e570eeffa579a',
+    messagingSenderId: '542285119087',
+    projectId: 'project2-13f9b',
+    authDomain: 'project2-13f9b.firebaseapp.com',
+    storageBucket: 'project2-13f9b.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAYPI5QXGGoy00AEIaKCQOYECkDAm0kH3c',
-    appId: '1:435301264595:android:b655c2817fd20fe097b826',
-    messagingSenderId: '435301264595',
-    projectId: 'artfolio-e9d2a',
-    storageBucket: 'artfolio-e9d2a.appspot.com',
+    apiKey: 'AIzaSyCaVul8PaJf7hhzeqyIsmsPX1k7tZnR0Tc',
+    appId: '1:542285119087:android:a39d0ed4f3389d68fa579a',
+    messagingSenderId: '542285119087',
+    projectId: 'project2-13f9b',
+    storageBucket: 'project2-13f9b.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCdsuoWFtYe5RmWgHcYCh34tFHK2e4axV0',
-    appId: '1:435301264595:ios:2f5d28b0750c5ddb97b826',
-    messagingSenderId: '435301264595',
-    projectId: 'artfolio-e9d2a',
-    storageBucket: 'artfolio-e9d2a.appspot.com',
-    iosBundleId: 'com.example.artfolio',
+    apiKey: 'AIzaSyCcuH0ehCr-HReLWzMRK9Rxdax3g8VnACQ',
+    appId: '1:542285119087:ios:7fcaa6707b8c673efa579a',
+    messagingSenderId: '542285119087',
+    projectId: 'project2-13f9b',
+    storageBucket: 'project2-13f9b.appspot.com',
+    iosBundleId: 'com.example.project2',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCdsuoWFtYe5RmWgHcYCh34tFHK2e4axV0',
-    appId: '1:435301264595:ios:2f5d28b0750c5ddb97b826',
-    messagingSenderId: '435301264595',
-    projectId: 'artfolio-e9d2a',
-    storageBucket: 'artfolio-e9d2a.appspot.com',
-    iosBundleId: 'com.example.artfolio',
+    apiKey: 'AIzaSyCcuH0ehCr-HReLWzMRK9Rxdax3g8VnACQ',
+    appId: '1:542285119087:ios:7fcaa6707b8c673efa579a',
+    messagingSenderId: '542285119087',
+    projectId: 'project2-13f9b',
+    storageBucket: 'project2-13f9b.appspot.com',
+    iosBundleId: 'com.example.project2',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCRCcAD3gE2nvRV0FdhoOjl0yd6dGG-uLA',
-    appId: '1:435301264595:web:7c32c483857e293597b826',
-    messagingSenderId: '435301264595',
-    projectId: 'artfolio-e9d2a',
-    authDomain: 'artfolio-e9d2a.firebaseapp.com',
-    storageBucket: 'artfolio-e9d2a.appspot.com',
-    measurementId: 'G-DTNVTK5C6J',
+    apiKey: 'AIzaSyCZhGkFp54bNm1UgN9MMMGo8ffvervuZXs',
+    appId: '1:542285119087:web:f434f3e4eaec255cfa579a',
+    messagingSenderId: '542285119087',
+    projectId: 'project2-13f9b',
+    authDomain: 'project2-13f9b.firebaseapp.com',
+    storageBucket: 'project2-13f9b.appspot.com',
   );
-
 }
